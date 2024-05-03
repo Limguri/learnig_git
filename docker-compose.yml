@@ -6,3 +6,5 @@ services:
     container_name: guri
     ports:
       - "5000:5000"
+
+      
